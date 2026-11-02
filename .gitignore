@@ -1,0 +1,19 @@
+# Python environments
+.venv/
+.venv-advisor/
+__pycache__/
+*.pyc
+
+# Debug & capture artifacts (regenerable, large)
+.debug/
+watch1/
+
+# Vendored clone with its own history (github.com/advitrocks9/fullhouse-bot)
+third_party/
+
+# Build outputs (rebuild from source)
+pokerbot
+clicker
+
+# macOS
+.DS_Store
